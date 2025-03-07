@@ -81,7 +81,7 @@ highlight_name: false
 # - Visitors
 # - Alumni
 user_groups:
-  - Visitors
+  - Alumni
 ---
 
 {{% cta cta_link="../../member" cta_text="⬅ BACK" %}}
