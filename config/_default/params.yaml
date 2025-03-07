@@ -61,7 +61,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} UM IOTSC DART | Created by Hao Dong'
+    notice: '© {year} UM IOTSC DART'
     # license:
     #   enable: true
     #   allow_derivatives: false

@@ -1,8 +1,3 @@
-<!-- Runchang Liang is currently pursuing a master's degree in artificial intelligence at Northeast Normal
-University under the supervision of Dr. Minghao Yin. He completed his bachelor's degree in software engineering at Northeast Normal University, Changchun, China, in 2023. His research interests focus on spatiotemporal data mining and educational data mining. -->
-
-
-
 ---
 # Display name
 title: Runchang Liang
@@ -15,7 +10,7 @@ last_name: Liang
 superuser: false
 
 # Role/position
-role: Visitors
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -26,19 +21,16 @@ organizations:
 bio: Yeah!
 
 interests:
-  - King of VSF
+  - Spatiotemporal Data Mining
 
 education:
   courses:
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
-    - course: BEng in Cyberspace Security
-      institution: Shandong University
-      year: 2023
+    - course: BEng in Software Engineering
+      institution: Northeast Normal University
+      year: 2019-2023
+    - course: MS student in Artificial Intelligence
+      institution: Northeast Normal University
+      year: 2023-present
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,19 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yc37901@um.edu.mo'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/Asteriaqq
-  # - icon: house-user
-  #   icon_pack: fas
-  #   link: author/qi-hao
+    link: 'mailto:runchangliang@um.edu.mo'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,24 +47,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'runchangliang@um.edu.mo'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-# - Researchers
-# - PhD Students
-# - Master Students
-# - Visitors
-# - Alumni
 user_groups:
-  - PhD Students
+  - Visitors
 ---
 
 {{% cta cta_link="../../member" cta_text="⬅ BACK" %}}
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Runchang Liang received the BE degree in Software Engineering from Northeast Normal University, in 2023. He is currently working toward the MS degree in Artificial Intelligence at Northeast Normal University. He also serves as Research Assistant with the State Key Laboratory of Internet of Things for Smart City of the University of Macau. His research interests focus on spatiotemporal data mining.
